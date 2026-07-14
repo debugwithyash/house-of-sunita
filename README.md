@@ -8,10 +8,6 @@ A premium and responsive ethnic fashion landing page built using **HTML5** and *
 
 ## 📸 Preview
 
-> Add a screenshot of your homepage here.
-
-Example:
-
 ![House of Sunita Preview](images/screenshot.png)
 
 ---
